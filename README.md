@@ -1,2 +1,3 @@
-# hello-world
-Dieses Repository dient zum Üben des GitHub-Flows.
+hallo.
+ich bin Hazem.
+studiere Elektro- und Informationstechnik im 4.Semester
